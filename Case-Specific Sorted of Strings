@@ -1,0 +1,35 @@
+#1-Create-specific sortings of Strings
+
+def caseSort(s,n):
+    #code here
+    low = []
+    up  = []
+    
+    for i in range(n):
+        if(s[i]>='a' and s[i]<='z'):
+            low.append(s[i])
+        if(s[i]>='A' and s[i]<='Z'):
+            up.append(s[i])
+    
+    low = sorted(low)
+    up  = sorted(up)
+    ans = ''
+    
+    i = 0
+    j = 0
+    
+    for e in s:
+        if e.islower():
+            ans+=low[i]
+            i+=1
+        else:
+            ans+=up[j]
+            j+=1
+    return(ans)
+    
+if __name__ == '__main__':
+    t = int(input())
+    for tt in range(t):
+        n=int(input())
+        s=str(input())
+        print(caseSort(s,n))
