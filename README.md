@@ -8,7 +8,7 @@ Lets get started with data structures
 
 [#2.0 Selection-Sort Code](https://github.com/erkushagra/daysofdatastructures/blob/main/selection_sort)
     
-[2.1 Selection-Sort flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/Selection-sort-flowchart.jpg)
+[#2.1 Selection-Sort flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/Selection-sort-flowchart.jpg)
 
 
 
