@@ -1,0 +1,28 @@
+def bubblesort(arr):
+    n = len(arr)
+    for i in range(n):
+        swap = False
+        for j in range(n-i-1):
+            if arr[j]>arr[j+1]:
+                arr[j],arr[j+1] = arr[j+1],arr[j]
+                swap = True
+        if swap == False:
+            break
+
+arr = [64,34,25,12,22,11,90]
+
+bubblesort(arr)
+print(arr)
+                
+  
+Output:-
+11 12 22 25 34 64 90
+ 
+ 
+  => Worst and Average Case Time Complexity: O(n*n). Worst case occurs when array is reverse sorted.
+
+  => Best Case Time Complexity: O(n). Best case occurs when array is already sorted. 
+
+   NOTE:- [It is used in a polygon filling algorithm, where bounding lines are sorted by their x coordinate at a specific scan line (a line parallel to x axis)
+   and with incrementing y their order changes (two elements are swapped) only at intersections of two lines.]
+  
