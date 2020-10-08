@@ -12,9 +12,10 @@ Lets get started with data structures
 
 [#3.0 Bubble Sort Code](https://github.com/erkushagra/daysofdatastructures/blob/main/bubble_sort)
 
-[#3.1 Bubble Sort flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/bubble-sort1.png)
+[#3.1 Bubble Sort flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/bubble-sort%20flowchart.jpg)
 
+[#4.0 Insertion Sort Code](https://github.com/erkushagra/daysofdatastructures/blob/main/Insertion_sort)
 
-
+[#4.1 Insertion Sort flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/insertion-sort%20flowchart.png)
 
 
