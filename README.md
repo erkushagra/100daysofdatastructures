@@ -10,5 +10,11 @@ Lets get started with data structures
     
 [#2.1 Selection-Sort flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/Selection-sort-flowchart.jpg)
 
+[#3.0 Bubble Sort Code](https://github.com/erkushagra/daysofdatastructures/blob/main/bubble_sort)
+
+[#3.1 Bubble Sort flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/bubble-sort1.png)
+
+
+
 
 
