@@ -12,4 +12,7 @@ Lets get started with data structures
 
 [#4.0 Insertion Sort Code](https://github.com/erkushagra/daysofdatastructures/blob/main/Insertion_sort)                                                                                                            [=> 4.1 Insertion Sort flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/insertion-sort%20flowchart.png)
 
+[#5.0 Merge Sort Code](https://github.com/erkushagra/daysofdatastructures/blob/main/Merge_Sort)                                                                                                            [=> 5.1 Merge Sort flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/merge-sort-flow-chart.png)  [=> 5.2 Merge Sort Example](https://github.com/erkushagra/daysofdatastructures/blob/main/Merge-Sort-example.png) 
+
+
 
