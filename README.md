@@ -17,3 +17,4 @@ Lets get started with data structures
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION ✌](https://practice.geeksforgeeks.org/problems/maximum-intervals-overlap/0/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]1page1)
 
+[#6.1 Quick Sort Code](https://github.com/erkushagra/daysofdatastructures/blob/main/Quick_Sort_Code) [=> Quick Sort Flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/quicksort_flowchart.png)
