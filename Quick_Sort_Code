@@ -1,0 +1,33 @@
+def partition(arr,low,high):
+    i = low-1    #index of smaller element
+    pivot = arr[high] #taking last element as pivot
+    
+    for j in range(low, high):
+
+        if arr[j]<pivot:   #case-1 if element is less than pivot than do swapping by incrementing the index of smaller element
+            i+=1
+            arr[i],arr[j] = arr[j],arr[i]
+
+    arr[i+1],arr[high] = arr[high],arr[i+1]
+    return i+1
+
+def quicksort(arr,low,high):
+    if low < high:
+        pi = partition(arr, low, high) #calling function named as partition, partitioning index, pivot element is now at right place 
+        quicksort(arr,low,pi-1) #separately sort elements before partition and after partition
+        quicksort(arr,pi+1,high)
+    
+arr = [38,27,43,3,9,82,10]
+n = len(arr)
+quicksort(arr,0,n-1)
+print('sorted arr is',arr)
+
+Note :-  Worst Case: The worst case occurs when the partition process always picks greatest or smallest element as pivot.
+         (the worst case would occur when the array is already sorted in increasing or decreasing order)       
+         The solution of above recurrence is O(n2).
+         
+         Best Case: The best case occurs when the partition process always picks the middle element as pivot.
+         O(nlogn)
+         
+         Average Case: To do average case analysis, we need to consider all possible permutation of array and calculate time 
+         taken by every permutation which doesn’t look easy.[O(nLogn)]
