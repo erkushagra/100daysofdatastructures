@@ -19,4 +19,4 @@ Lets get started with data structures
 
 [#6.0 Quick Sort Code](https://github.com/erkushagra/daysofdatastructures/blob/main/Quick_Sort_Code) [=> 6.1 Quick Sort Flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/quicksort_flowchart.png)
 
-[#7.0 Heap Sort Code](https://github.com/erkushagra/daysofdatastructures/blob/main/Heap%20Sort)  [=> 7.1 HeapSort flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/heap-sort_flowchart.png)
+[#7.0 Heap Sort Code](https://github.com/erkushagra/daysofdatastructures/blob/main/Heap%20Sort)   [=> 7.1 HeapSort flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/heap-sort_flowchart.png)
