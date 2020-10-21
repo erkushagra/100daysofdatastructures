@@ -22,3 +22,5 @@ Lets get started with data structures
 [#7.0 Heap Sort Code](https://github.com/erkushagra/daysofdatastructures/blob/main/Heap%20Sort)   [=> 7.1 HeapSort flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/heap-sort_flowchart.png)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.1 ✌](https://practice.geeksforgeeks.org/problems/magnet-array-problem/0/?category[]=Arrays&category[]=Searching&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SearchingproblemStatusunsolveddifficulty[]1page1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.2 ✌](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]1page1#)
