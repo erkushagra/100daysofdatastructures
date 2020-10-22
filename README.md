@@ -24,3 +24,6 @@ Lets get started with data structures
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.1 ✌](https://practice.geeksforgeeks.org/problems/magnet-array-problem/0/?category[]=Arrays&category[]=Searching&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SearchingproblemStatusunsolveddifficulty[]1page1)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.2 ✌](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]1page1#)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.3 ✌](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]0page1#)
+
