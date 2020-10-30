@@ -32,6 +32,7 @@ Lets get started with data structures...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.4 ✌](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/1/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]0page1#)
 
 * SEARCHING ARRAY
-[# LINEAR AND BINARY SEARCH CODE](https://github.com/erkushagra/daysofdatastructures/blob/main/searching.py)
+
+[#LINEAR AND BINARY SEARCH CODE](https://github.com/erkushagra/daysofdatastructures/blob/main/searching.py)
                            [=> FLOWCHART OF LINEAR SEARCH](https://github.com/erkushagra/daysofdatastructures/blob/main/flowchartlinearsearch.jpg)
                            [=> FLOWCHART OF BINEARY SEARCH](https://github.com/erkushagra/daysofdatastructures/blob/main/flowchartbinsearch.gif)
