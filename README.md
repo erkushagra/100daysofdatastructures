@@ -36,3 +36,6 @@ Lets get started with data structures...✌🙂
 [#LINEAR AND BINARY SEARCH CODE](https://github.com/erkushagra/daysofdatastructures/blob/main/searching.py)
                            [=> FLOWCHART OF LINEAR SEARCH](https://github.com/erkushagra/daysofdatastructures/blob/main/flowchartlinearsearch.jpg)
                            [=> FLOWCHART OF BINEARY SEARCH](https://github.com/erkushagra/daysofdatastructures/blob/main/flowchartbinsearch.gif)
+                           
+                           
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.5 Rearrange Array Alternately✌](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1/?category[]=Arrays&category[]=Sorting&category[]=Searching&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]Sortingcategory[]SearchingproblemStatusunsolveddifficulty[]1page1#)                 
