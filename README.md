@@ -33,7 +33,7 @@ Lets get started with data structures...✌🙂
 
 * SEARCHING ARRAY
 
-[#LINEAR AND BINARY SEARCH CODE](https://github.com/erkushagra/daysofdatastructures/blob/main/searching.py)
+[# LINEAR AND BINARY SEARCH CODE](https://github.com/erkushagra/daysofdatastructures/blob/main/searching.py)
                            [=> FLOWCHART OF LINEAR SEARCH](https://github.com/erkushagra/daysofdatastructures/blob/main/flowchartlinearsearch.jpg)
                            [=> FLOWCHART OF BINEARY SEARCH](https://github.com/erkushagra/daysofdatastructures/blob/main/flowchartbinsearch.gif)
                            
