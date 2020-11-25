@@ -41,3 +41,5 @@ Lets get started with data structures...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.5 Rearrange Array Alternately✌](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1/?category[]=Arrays&category[]=Sorting&category[]=Searching&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]Sortingcategory[]SearchingproblemStatusunsolveddifficulty[]1page1#) 
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.6 Subarray with given sum✌](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1/?track=dsa-workshop-1-arrays&batchId=308#)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.7 Rearrange an array with O(1) extra space✌] (https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1/?track=dsa-workshop-1-arrays&batchId=308#)
