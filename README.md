@@ -3,6 +3,8 @@ Lets get started with data structures...✌🙂
 
 [NOTES ON DATA STRUCTURES](https://github.com/erkushagra/daysofdatastructures/blob/main/AlgorithmsNotesForProfessionals%20(1)%20(1)%20(1)%20(1).pdf)
 
+# T O P I C S ::: 
+
 # ARRAY
 * SORTED ARRAY
 
@@ -21,6 +23,20 @@ Lets get started with data structures...✌🙂
 
 [#7.0 Heap Sort Code](https://github.com/erkushagra/daysofdatastructures/blob/main/Heap%20Sort)   [=> 7.1 HeapSort flowchart](https://github.com/erkushagra/daysofdatastructures/blob/main/heap-sort_flowchart.png)
 
+* SEARCHING ARRAY
+
+[# LINEAR AND BINARY SEARCH CODE](https://github.com/erkushagra/daysofdatastructures/blob/main/searching.py)
+                           [=> FLOWCHART OF LINEAR SEARCH](https://github.com/erkushagra/daysofdatastructures/blob/main/flowchartlinearsearch.jpg)
+                           [=> FLOWCHART OF BINEARY SEARCH](https://github.com/erkushagra/daysofdatastructures/blob/main/flowchartbinsearch.gif)
+                           
+
+
+# A L G O R I T H M S :::
+
+[👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
+
+# Q U E S T I O N S ::: 
+
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.0 ✌](https://practice.geeksforgeeks.org/problems/maximum-intervals-overlap/0/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]1page1)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.1 ✌](https://practice.geeksforgeeks.org/problems/magnet-array-problem/0/?category[]=Arrays&category[]=Searching&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SearchingproblemStatusunsolveddifficulty[]1page1)
@@ -30,13 +46,6 @@ Lets get started with data structures...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.3 ✌](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]0page1#)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.4 ✌](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/1/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]0page1#)
-
-* SEARCHING ARRAY
-
-[# LINEAR AND BINARY SEARCH CODE](https://github.com/erkushagra/daysofdatastructures/blob/main/searching.py)
-                           [=> FLOWCHART OF LINEAR SEARCH](https://github.com/erkushagra/daysofdatastructures/blob/main/flowchartlinearsearch.jpg)
-                           [=> FLOWCHART OF BINEARY SEARCH](https://github.com/erkushagra/daysofdatastructures/blob/main/flowchartbinsearch.gif)
-                           
                            
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.5 Rearrange Array Alternately✌](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1/?category[]=Arrays&category[]=Sorting&category[]=Searching&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]Sortingcategory[]SearchingproblemStatusunsolveddifficulty[]1page1#) 
 
@@ -44,4 +53,3 @@ Lets get started with data structures...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.7 Rearrange an array with O(1) extra space✌](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1/?track=dsa-workshop-1-arrays&batchId=308#)
 
-[👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
