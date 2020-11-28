@@ -53,3 +53,4 @@ Lets get started with data structures...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.7 Rearrange an array with O(1) extra space✌](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1/?track=dsa-workshop-1-arrays&batchId=308#)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.8 Longest-sub-array-having-sum-of-k✌](https://www.geeksforgeeks.org/longest-sub-array-sum-k/)
