@@ -30,6 +30,9 @@ Lets get started with data structures...✌🙂
                            [=> FLOWCHART OF BINEARY SEARCH](https://github.com/erkushagra/daysofdatastructures/blob/main/flowchartbinsearch.gif)
                            
 
+# M A T R I X , S T R I N G S AND B I T  M A G I C
+
+[GET STARTED WITH DETERMINANT OF A MATRIX](https://www.geeksforgeeks.org/determinant-of-a-matrix/)
 
 # A L G O R I T H M S :::
 
