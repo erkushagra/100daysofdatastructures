@@ -34,6 +34,8 @@ Lets get started with data structures...✌🙂
 
 [GET STARTED WITH DETERMINANT OF A MATRIX](https://www.geeksforgeeks.org/determinant-of-a-matrix/)
 
+[TRANSPOSE OF A MATRIX](https://www.geeksforgeeks.org/transpose-matrix-single-line-python/)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
