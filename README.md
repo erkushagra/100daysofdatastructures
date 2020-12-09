@@ -36,6 +36,8 @@ Lets get started with data structures...✌🙂
 
 [TRANSPOSE OF A MATRIX](https://www.geeksforgeeks.org/transpose-matrix-single-line-python/)
 
+[Maximum size rectangle binary sub-matrix with all 1s](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
