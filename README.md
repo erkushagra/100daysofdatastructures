@@ -32,11 +32,17 @@ Lets get started with data structures...✌🙂
 
 # M A T R I X , S T R I N G S AND B I T  M A G I C
 
+* MATRIX
+
 [GET STARTED WITH DETERMINANT OF A MATRIX](https://www.geeksforgeeks.org/determinant-of-a-matrix/)
 
 [TRANSPOSE OF A MATRIX](https://www.geeksforgeeks.org/transpose-matrix-single-line-python/)
 
 [Maximum size rectangle binary sub-matrix with all 1s](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/)
+
+* STRING
+
+[Longest Palindrome Substring](https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/)
 
 # A L G O R I T H M S :::
 
