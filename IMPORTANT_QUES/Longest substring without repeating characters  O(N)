@@ -30,3 +30,103 @@ def SubsequenceLength(s):
     
    
 SubsequenceLength(input())
+
+
+
+O U T P U T ::: - 
+
+
+1                                                                                                                                               
+geeksforgeeks                                                                                                                                   
+at value of j::: 0                                                                                                                              
+where value of ord(s[j]) 103                                                                                                                    
+value of i 0  and value of lastindex[ord(s[j])]+1 0                                                                                             
+max of i and lastindex[ord(s[j])]+1 is 0                                                                                                        
+max value of res and j-i+1 1                                                                                                                    
+lastindex[ord(s[j])]=j i.e. 0  
+
+at value of j::: 1                                                                                                                              
+where value of ord(s[j]) 101                                                                                                                    
+value of i 0  and value of lastindex[ord(s[j])]+1 0                                                                                             
+max of i and lastindex[ord(s[j])]+1 is 0                                                                                                        
+max value of res and j-i+1 2                                                                                                                    
+lastindex[ord(s[j])]=j i.e. 1                                                                                                                   
+
+at value of j::: 2                                                                                                                              
+where value of ord(s[j]) 101                                                                                                                    
+value of i 0  and value of lastindex[ord(s[j])]+1 2                                                                                             
+max of i and lastindex[ord(s[j])]+1 is 2                                                                                                        
+max value of res and j-i+1 2                                                                                                                    
+lastindex[ord(s[j])]=j i.e. 2                                                                                                                   
+
+at value of j::: 3                                                                                                                              
+where value of ord(s[j]) 107                                                                                                                    
+value of i 2  and value of lastindex[ord(s[j])]+1 0                                                                                             
+max of i and lastindex[ord(s[j])]+1 is 2                                                                                                        
+max value of res and j-i+1 2                                                                                                                    
+lastindex[ord(s[j])]=j i.e. 3                                                                                                                   
+
+at value of j::: 4                                                                                                                              
+where value of ord(s[j]) 115                                                                                                                    
+value of i 2  and value of lastindex[ord(s[j])]+1 0                                                                                             
+max of i and lastindex[ord(s[j])]+1 is 2                                                                                                        
+max value of res and j-i+1 3                                                                                                                    
+lastindex[ord(s[j])]=j i.e. 4         
+
+at value of j::: 5                                                                                                                              
+where value of ord(s[j]) 102                                                                                                                    
+value of i 2  and value of lastindex[ord(s[j])]+1 0                                                                                             
+max of i and lastindex[ord(s[j])]+1 is 2                                                                                                        
+max value of res and j-i+1 4                                                                                                                    
+lastindex[ord(s[j])]=j i.e. 5                                                                                                                   
+
+at value of j::: 6                                                                                                                              
+where value of ord(s[j]) 111                                                                                                                    
+value of i 2  and value of lastindex[ord(s[j])]+1 0                                                                                             
+max of i and lastindex[ord(s[j])]+1 is 2                                                                                                        
+max value of res and j-i+1 5                                                                                                                    
+lastindex[ord(s[j])]=j i.e. 6                                                                                                                   
+
+at value of j::: 7                                                                                                                              
+where value of ord(s[j]) 114                                                                                                                    
+value of i 2  and value of lastindex[ord(s[j])]+1 0                                                                                             
+max of i and lastindex[ord(s[j])]+1 is 2                                                                                                        
+max value of res and j-i+1 6                                                                                                                    
+lastindex[ord(s[j])]=j i.e. 7                                                                                                                   
+
+at value of j::: 8                                                                                                                              
+where value of ord(s[j]) 103                                                                                                                    
+value of i 2  and value of lastindex[ord(s[j])]+1 1                                                                                             
+max of i and lastindex[ord(s[j])]+1 is 2                                                                                                        
+max value of res and j-i+1 7                                                                                                                    
+lastindex[ord(s[j])]=j i.e. 8                                                                                                                   
+
+at value of j::: 9                                                                                                                              
+where value of ord(s[j]) 101                                                                                                                    
+value of i 2  and value of lastindex[ord(s[j])]+1 3                                                                                             
+max of i and lastindex[ord(s[j])]+1 is 3                                                                                                        
+max value of res and j-i+1 7                                                                                                                    
+lastindex[ord(s[j])]=j i.e. 9             
+
+at value of j::: 10                                                                                                                             
+where value of ord(s[j]) 101                                                                                                                    
+value of i 3  and value of lastindex[ord(s[j])]+1 10                                                                                            
+max of i and lastindex[ord(s[j])]+1 is 10                                                                                                       
+max value of res and j-i+1 7                                                                                                                    
+lastindex[ord(s[j])]=j i.e. 10 
+
+at value of j::: 11                                                                                                                             
+where value of ord(s[j]) 107                                                                                                                    
+value of i 10  and value of lastindex[ord(s[j])]+1 4                                                                                            
+max of i and lastindex[ord(s[j])]+1 is 10                                                                                                       
+max value of res and j-i+1 7                                                                                                                    
+lastindex[ord(s[j])]=j i.e. 11                                                                                                                  
+
+at value of j::: 12                                                                                                                             
+where value of ord(s[j]) 115                                                                                                                    
+value of i 10  and value of lastindex[ord(s[j])]+1 5                                                                                            
+max of i and lastindex[ord(s[j])]+1 is 10                                                                                                       
+max value of res and j-i+1 7                                                                                                                    
+lastindex[ord(s[j])]=j i.e. 12                                                                                                                  
+
+ans is 7                                 
