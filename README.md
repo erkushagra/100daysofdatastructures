@@ -44,6 +44,8 @@ Lets get started with data structures...✌🙂
 
 [Longest Palindrome Substring](https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/)
 
+[Longest Substring without Repeating characters in O(N) complexity](https://github.com/erkushagra/daysofdatastructures/blob/main/IMPORTANT_QUES/Longest%20substring%20without%20repeating%20characters%20%20O(N))
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
