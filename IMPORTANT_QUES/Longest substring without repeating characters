@@ -1,0 +1,32 @@
+no_of_chars = 256
+
+def SubsequenceLength(s):
+    #Codee here
+    
+    lastindex = [-1]*no_of_chars
+    
+    n = len(s)
+    res= 0
+    i = 0
+    
+    for j in range(n):
+        
+        #print('at value of j:::',j)
+        #print('where value of ord(s[j])',ord(s[j]))
+        #print('value of i',i,' and value of lastindex[ord(s[j])]+1',lastindex[ord(s[j])]+1)
+        
+        i = max(i, lastindex[ord(s[j])]+1)
+        
+        #print('max of i and lastindex[ord(s[j])]+1 is',i)
+        
+       
+        res = max(res,j-i+1)
+        #print('max value of res and j-i+1',res)
+
+        lastindex[ord(s[j])]=j
+        #print('lastindex[ord(s[j])]=j i.e.',lastindex[ord(s[j])])
+    
+    print("ans is",res)
+    
+   
+SubsequenceLength(input())
