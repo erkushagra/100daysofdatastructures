@@ -42,7 +42,9 @@ Lets get started with data structures in Python...✌🙂
 
 * STRING
 
-[Longest Palindrome Substring](https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/)
+[Longest Palindrome Substring GFG](https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/)
+
+[Longest Palindrome Substring github](https://github.com/erkushagra/daysofdatastructures/blob/main/IMPORTANT_QUES/Longest%20Palindrome%20Substring)
 
 [Longest Substring without Repeating characters in O(N) complexity](https://github.com/erkushagra/daysofdatastructures/blob/main/IMPORTANT_QUES/Longest%20substring%20without%20repeating%20characters%20%20O(N))
 
