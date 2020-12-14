@@ -52,6 +52,8 @@ Lets get started with data structures in Python...✌🙂
 
 [IMPORTANT BITS](https://github.com/erkushagra/daysofdatastructures/blob/main/IMPORTANT_QUES/Bit%20Algorithms)
 
+[COUNT TOTAL SET BITS IN ALL NUMBERS-[1,N]](https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
