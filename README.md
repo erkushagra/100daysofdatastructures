@@ -54,6 +54,10 @@ Lets get started with data structures in Python...✌🙂
 
 [COUNT TOTAL SET BITS IN ALL NUMBERS-[1,N]](https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/)
 
+[CHECK NUMBER IS SPARSE OR NOT](https://www.geeksforgeeks.org/check-if-a-given-number-is-sparse-or-not/)
+
+[BINARY TO GRAY EQUILVALENT](https://www.geeksforgeeks.org/gray-to-binary-and-binary-to-gray-conversion/)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
