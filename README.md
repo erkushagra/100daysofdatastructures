@@ -48,6 +48,10 @@ Lets get started with data structures in Python...✌🙂
 
 [Longest Substring without Repeating characters in O(N) complexity](https://github.com/erkushagra/daysofdatastructures/blob/main/IMPORTANT_QUES/Longest%20substring%20without%20repeating%20characters%20%20O(N))
 
+* B I T  M A G I C
+
+[IMPORTANT BITS](https://github.com/erkushagra/daysofdatastructures/blob/main/IMPORTANT_QUES/Bit%20Algorithms)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
