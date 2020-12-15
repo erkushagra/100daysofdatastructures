@@ -50,7 +50,9 @@ Lets get started with data structures in Python...✌🙂
 
 * B I T  M A G I C
 
-[IMPORTANT BITS](https://github.com/erkushagra/daysofdatastructures/blob/main/IMPORTANT_QUES/Bit%20Algorithms)
+[IMPORTANT BITS-1](https://github.com/erkushagra/daysofdatastructures/blob/main/IMPORTANT_QUES/Bit%20Algorithms)
+
+[IMPORTANT BITS-2](https://github.com/erkushagra/daysofdatastructures/blob/main/IMPORTANT_QUES/Bit%20Algorithms%202)
 
 [COUNT TOTAL SET BITS IN ALL NUMBERS-[1,N]](https://www.geeksforgeeks.org/count-total-set-bits-in-all-numbers-from-1-to-n/)
 
@@ -59,6 +61,7 @@ Lets get started with data structures in Python...✌🙂
 [BINARY TO GRAY EQUILVALENT](https://www.geeksforgeeks.org/gray-to-binary-and-binary-to-gray-conversion/)
 
 [Maximum Subset XOR](https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/)
+
 
 # A L G O R I T H M S :::
 
