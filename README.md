@@ -1,4 +1,4 @@
-# daysofdatastructures
+# Daysofdatastructures
 Lets get started with data structures in Python...✌🙂
 
 [NOTES ON DATA STRUCTURES](https://github.com/erkushagra/daysofdatastructures/blob/main/AlgorithmsNotesForProfessionals%20(1)%20(1)%20(1)%20(1).pdf)
