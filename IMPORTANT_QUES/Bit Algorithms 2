@@ -1,0 +1,120 @@
+
+#### GRAY CODE TO BINARY CODE ###
+
+def grayToBinary(n):
+    ##Your code here
+    num = n
+    while n>=1:
+        n = n>>1
+        num = num^n
+    return num
+
+n = int(input())
+print(grayToBinary(n))
+
+Input: N = 4
+Output: 7
+Explanation:
+4 is represented as gray 100 and its 
+binary equivalent is 111 whose decimal 
+equivalent is 7.
+
+
+### BIT DIFFERENCE ###
+
+def countBitsFlip(a,b):
+    ##Your code here
+    axorb = bin(a^b)
+    ans = axorb.count('1')
+    return ans 
+
+a, b = int(input()) ,int(input())
+print(countBitsFlip(a,b))
+
+Input: A = 10, B = 20
+Output: 4
+Explanation:
+A  = 01010
+B  = 10100
+As we can see, the bits of A that need 
+to be flipped are 01010. If we flip 
+these bits, we get 10100, which is B.
+
+### GET FIRST SET i.e - 1 bit ###
+
+def getFirstSetBit(n):
+    #Your code here
+    if n==0:
+        return 0
+    for i in range(n):
+        if ((n>>i)&1)==1:
+            return i+1 
+            break
+
+n = int(input())
+print(getFirstSetBit(n))
+
+Input: N = 18
+Output: 2
+Explanation: Binary representation of 18 is 010010,
+the first set bit from the right side is at position 2.
+
+
+### RIGHT MOST different Bit ###
+
+import math
+def posOfRightMostDiffBit(m,n):
+    #Your code here
+    mxorn = m^n
+    return math.log((mxorn^(mxorn-1))+1,2)
+
+m,n = int(input()),int(input())
+print(postOfRightMostDiffBit(m,n))
+
+Input: M = 11, N = 9
+Output: 2
+Explanation: Binary representation of the given 
+numbers are: 1011 and 1001, 
+2nd bit from right is different.
+
+### SWAP ALL ODD AND EVEN BITS ###
+
+def swapBits(n):
+s = (bin(n).replace("0b",""))
+    if(len(s)>=0 and len(s)<=8):
+        s = "0"*(8-len(s)) + s
+    
+    elif(len(s)>=9 and len(s)<=16):
+        s = "0"*(16-len(s)) + s
+        
+    elif(len(s)>=17 and len(s)<=24):
+        s = "0"*(24-len(s)) + s
+        
+    elif(len(s)>=25 and len(s)<=32):
+        s = "0"*(32-len(s)) + s
+        
+    elif(len(s)>=33 and len(s)<=40):
+        s = "0"*(40-len(s)) + s
+        
+    n = list(s)
+    for i in range(len(n)):
+        if(i%2==0):
+            n[i],n[i+1] = n[i+1],n[i]
+    return(int(''.join(n),2))
+ 
+    #OR USE THIS CODE -->
+    #ev=n&0xAAAAAAAA
+    #od=n&0x55555555
+    #ev>>=1
+    #od<<=1
+    #return ev|od
+
+n = int(input())
+print(swapBits(n))
+
+Input: N = 23
+Output: 43
+Explanation: 
+Binary representation of the given number 
+is 00010111 after swapping 
+00101011 = 43 in decimal.
