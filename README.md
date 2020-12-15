@@ -58,6 +58,8 @@ Lets get started with data structures in Python...✌🙂
 
 [BINARY TO GRAY EQUILVALENT](https://www.geeksforgeeks.org/gray-to-binary-and-binary-to-gray-conversion/)
 
+[Maximum Subset XOR](https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
