@@ -66,6 +66,8 @@ Lets get started with data structures in Python...✌🙂
 
 * H A S H I N G
 
+[hashing.ipynb](https://github.com/erkushagra/daysofdatastructures/blob/main/hashing%20and%20linked%20list/hashing.ipynb)
+
 
 # A L G O R I T H M S :::
 
