@@ -88,3 +88,5 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.8 Longest-sub-array-having-sum-of-k✌](https://www.geeksforgeeks.org/longest-sub-array-sum-k/)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.9 print-spiral-matrix ✌](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 2.0 Count triplets ✌](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps&isFullScreen=true)
