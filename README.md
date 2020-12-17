@@ -62,6 +62,9 @@ Lets get started with data structures in Python...✌🙂
 
 [Maximum Subset XOR](https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/)
 
+# H A S H I N G AND L I N K E D  L I S T S
+
+
 
 # A L G O R I T H M S :::
 
