@@ -105,13 +105,15 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 2.000 print-spiral-matrix ✌](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 2.001 Count triplets ✌](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps&isFullScreen=true)
-
 
 
 * HASHING QUESTIONS v-3.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 3.000 zero sum subarrays ✌](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 3.001 Count triplets ✌](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps&isFullScreen=true)
+
+
 
 
 
