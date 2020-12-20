@@ -66,6 +66,8 @@ Lets get started with data structures in Python...✌🙂
 
 * H A S H I N G
 
+[IMPROVE BASICS FOR HASHING](https://github.com/erkushagra/daysofdatastructures/blob/main/hashing%20and%20linked%20list/gfghashing.pdf)
+
 [hashing.ipynb](https://github.com/erkushagra/daysofdatastructures/blob/main/hashing%20and%20linked%20list/hashing.ipynb)
 
 [Relative Sorting Question ](https://practice.geeksforgeeks.org/problems/relative-sorting/0#:~:text=Given%20two%20arrays%20A1%5B%5D,at%20last%20in%20sorted%20order.)
