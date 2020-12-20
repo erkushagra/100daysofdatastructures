@@ -79,24 +79,40 @@ Lets get started with data structures in Python...✌🙂
 
 # Q U E S T I O N S ::: 
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.0 ✌](https://practice.geeksforgeeks.org/problems/maximum-intervals-overlap/0/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]1page1)
+* ARRAY QUESTIONS v- 1.0
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.1 ✌](https://practice.geeksforgeeks.org/problems/magnet-array-problem/0/?category[]=Arrays&category[]=Searching&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SearchingproblemStatusunsolveddifficulty[]1page1)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.000 ✌](https://practice.geeksforgeeks.org/problems/maximum-intervals-overlap/0/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]1page1)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.2 ✌](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]1page1#)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.001 ✌](https://practice.geeksforgeeks.org/problems/magnet-array-problem/0/?category[]=Arrays&category[]=Searching&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SearchingproblemStatusunsolveddifficulty[]1page1)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.3 ✌](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]0page1#)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.002 ✌](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]1page1#)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.4 ✌](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/1/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]0page1#)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.003 ✌](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]0page1#)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.004 ✌](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/1/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]0page1#)
                            
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.5 Rearrange Array Alternately✌](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1/?category[]=Arrays&category[]=Sorting&category[]=Searching&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]Sortingcategory[]SearchingproblemStatusunsolveddifficulty[]1page1#) 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.005 Rearrange Array Alternately✌](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1/?category[]=Arrays&category[]=Sorting&category[]=Searching&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]Sortingcategory[]SearchingproblemStatusunsolveddifficulty[]1page1#) 
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.6 Subarray with given sum✌](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1/?track=dsa-workshop-1-arrays&batchId=308#)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.006 Subarray with given sum✌](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1/?track=dsa-workshop-1-arrays&batchId=308#)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.7 Rearrange an array with O(1) extra space✌](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1/?track=dsa-workshop-1-arrays&batchId=308#)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.007 Rearrange an array with O(1) extra space✌](https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1/?track=dsa-workshop-1-arrays&batchId=308#)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.8 Longest-sub-array-having-sum-of-k✌](https://www.geeksforgeeks.org/longest-sub-array-sum-k/)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.008 Longest-sub-array-having-sum-of-k✌](https://www.geeksforgeeks.org/longest-sub-array-sum-k/)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.9 print-spiral-matrix ✌](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 2.0 Count triplets ✌](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps&isFullScreen=true)
+
+* MATRIX QUESTIONS v- 2.0
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 2.000 print-spiral-matrix ✌](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 2.001 Count triplets ✌](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps&isFullScreen=true)
+
+
+
+* HASHING QUESTIONS v-3.0
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 3.000 zero sum subarrays ✌](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1)
+
+
+
+
