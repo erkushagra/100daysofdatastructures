@@ -113,7 +113,7 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 3.001 Count triplets ✌](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=dictionaries-hashmaps&isFullScreen=true)
 
-
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 3.001 two sum or key pair ✌](https://practice.geeksforgeeks.org/problems/key-pair5616/1)
 
 
 
