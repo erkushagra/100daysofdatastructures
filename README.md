@@ -99,7 +99,7 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.008 Longest-sub-array-having-sum-of-k✌](https://www.geeksforgeeks.org/longest-sub-array-sum-k/)
 
-
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.009 longest consecutive subsequence✌](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1#)
 
 * MATRIX QUESTIONS v- 2.0
 
