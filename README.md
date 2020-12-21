@@ -66,6 +66,8 @@ Lets get started with data structures in Python...✌🙂
 
 * H A S H I N G
 
+[TOP K- NUMBERS OCCURRENCES](https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/)
+
 [IMPROVE BASICS FOR HASHING](https://github.com/erkushagra/daysofdatastructures/blob/main/hashing%20and%20linked%20list/gfghashing.pdf)
 
 [hashing.ipynb](https://github.com/erkushagra/daysofdatastructures/blob/main/hashing%20and%20linked%20list/hashing.ipynb)
@@ -117,6 +119,7 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 3.001 largest subarray with- 0 sum ✌](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 3.002 TOP-K NUMBERS OCCURRENCES GIVEN ARRAY ✌](https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/)
 
 
 
