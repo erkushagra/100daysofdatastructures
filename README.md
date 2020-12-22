@@ -74,6 +74,7 @@ Lets get started with data structures in Python...✌🙂
 
 [Relative Sorting Question ](https://practice.geeksforgeeks.org/problems/relative-sorting/0#:~:text=Given%20two%20arrays%20A1%5B%5D,at%20last%20in%20sorted%20order.)
 
+* L I N K E D  L I S T S
 
 # A L G O R I T H M S :::
 
