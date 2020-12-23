@@ -76,6 +76,8 @@ Lets get started with data structures in Python...✌🙂
 
 * L I N K E D  L I S T S
 
+[Basics of linked list](https://github.com/erkushagra/daysofdatastructures/blob/main/hashing%20and%20linked%20list/linked_list1.py)
+
 [Reverse a linked list](https://www.geeksforgeeks.org/reverse-a-linked-list/)
 
 # A L G O R I T H M S :::
