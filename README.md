@@ -126,8 +126,10 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 3.002 TOP-K NUMBERS OCCURRENCES GIVEN ARRAY ✌](https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/)
 
-* L I N K E D  L I S T v-4.0
+* LINKED LIST QUESTIONS v-4.0
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.000 reverse a linked list ✌](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.000 Add two numbers represented by linked lists✌](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.001 reverse a linked list ✌](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 
 
