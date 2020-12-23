@@ -80,6 +80,8 @@ Lets get started with data structures in Python...✌🙂
 
 [Reverse a linked list](https://www.geeksforgeeks.org/reverse-a-linked-list/)
 
+[Delete middle of linked list](https://www.geeksforgeeks.org/delete-middle-of-linked-list/)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
@@ -132,4 +134,5 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.001 reverse a linked list ✌](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.002 delete middle of linked list ✌](https://practice.geeksforgeeks.org/problems/delete-middle-of-linked-list/1)
 
