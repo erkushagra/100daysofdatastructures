@@ -1,0 +1,24 @@
+## I use to call this algorithm "TORTOISE AND RABBIT ALGORITHM"... 🐇  🐢
+
+1) This is the fastest method. Traverse linked list using two pointers. 
+
+2) Move one pointer by one step and another pointer by two-step. If these pointers meet at the same node then there is a loop. 
+If pointers do not meet then linked list doesn’t have a loop.
+
+:::------>>>>>>>You may visualize the solution as two runners are running on a circular track,
+If they are having different speeds they will definitely meet up on circular track itself.
+
+-------------------------------------------------------Code---------------------------------------------------------------------
+
+def detectLoop(head):
+    tortoise = head 
+    rabbit = head
+    
+    while tortoise and rabbit and rabbit.next:
+        tortoise = tortoise.next
+        rabbit = rabbit.next.next
+        if tortoise==rabbit:
+            return 'True'
+    return 'False'
+    
+ _______________________________________________________________________________________________________________________________
