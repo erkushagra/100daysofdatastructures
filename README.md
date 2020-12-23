@@ -76,6 +76,8 @@ Lets get started with data structures in Python...✌🙂
 
 * L I N K E D  L I S T S
 
+[Reverse a linked list](https://www.geeksforgeeks.org/reverse-a-linked-list/)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
