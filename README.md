@@ -86,6 +86,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
 
+[👀 Flyod Cycle Finding Algorithm (Tortoise and Rabbit Algo) ✌](https://github.com/erkushagra/daysofdatastructures/blob/main/hashing%20and%20linked%20list/Floyd%E2%80%99s%20Cycle-Finding%20Algorithm)
+
 # Q U E S T I O N S ::: 
 
 * ARRAY QUESTIONS v- 1.0
