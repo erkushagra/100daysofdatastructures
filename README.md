@@ -86,6 +86,10 @@ Lets get started with data structures in Python...✌🙂
 
 [Delete a node from linked list without head pointer](https://www.geeksforgeeks.org/delete-a-node-from-linked-list-without-head-pointer/)
 
+[Reverse a list in groups of a given size k](https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/)
+
+[Intersection point of two linked list](https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists-set-2/?ref=rp)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
@@ -144,6 +148,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.003 detect loop in a linked list ✌](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.003 delete without head-pointer ✌](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.004 delete without head-pointer ✌](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.005 reverse a linked list in groups✌](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.006 intersection-point-in-y-shapped-linked-lists✌](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
