@@ -153,3 +153,9 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.005 reverse a linked list in groups✌](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.006 intersection-point-in-y-shapped-linked-lists✌](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.007 quick sort in linked list 🔥✌](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1)
+
+
+
+
