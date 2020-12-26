@@ -90,6 +90,12 @@ Lets get started with data structures in Python...✌🙂
 
 [Intersection point of two linked list](https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists-set-2/?ref=rp)
 
+# S T A C K
+
+[Reverse using Stack in Python](https://github.com/erkushagra/daysofdatastructures/blob/main/Stacks/Reverse%20using%20Stack%20in%20Python)
+
+[STACKS IN PYTHON](https://www.geeksforgeeks.org/stack-in-python/)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
@@ -156,6 +162,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.007 quick sort in linked list 🔥✌](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1)
 
+* STACKS QUESTIONS v- 5.0
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.008 stack-set-4-evaluation-postfix-expression ✌](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)
 
 
