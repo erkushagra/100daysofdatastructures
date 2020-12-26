@@ -164,6 +164,6 @@ Lets get started with data structures in Python...✌🙂
 
 * STACKS QUESTIONS v- 5.0
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.008 stack-set-4-evaluation-postfix-expression ✌](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.000 stack evaluation-postfix-expression ✌](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)
 
 
