@@ -96,6 +96,12 @@ Lets get started with data structures in Python...✌🙂
 
 [STACKS IN PYTHON](https://www.geeksforgeeks.org/stack-in-python/)
 
+[Parentheses Checker](https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-python/)
+
+[Get Min](https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/)
+
+[Maximum size rectangle binary sub-matrix with all 1s](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
@@ -166,4 +172,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.000 stack evaluation-postfix-expression ✌](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.001 Parenthesis-checker ✌](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Get Min ✌](https://practice.geeksforgeeks.org/problems/special-stack/1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Max Rectangle ✌](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
