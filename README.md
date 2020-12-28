@@ -136,8 +136,6 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 2.000 print-spiral-matrix ✌](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
 
-
-
 * HASHING QUESTIONS v-3.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 3.000 zero sum subarrays ✌](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1)
@@ -149,6 +147,8 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 3.001 largest subarray with- 0 sum ✌](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 3.002 TOP-K NUMBERS OCCURRENCES GIVEN ARRAY ✌](https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 3.003 String Anagrams ✌](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings&isFullScreen=true)
 
 * LINKED LIST QUESTIONS v-4.0
 
@@ -177,3 +177,10 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Get Min ✌](https://practice.geeksforgeeks.org/problems/special-stack/1)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Max Rectangle ✌](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
+
+* STRINGS QUESTIONS v- 6.0
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 6.001 String Anagrams ✌](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings&isFullScreen=true)
+
+
+[
