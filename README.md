@@ -102,6 +102,10 @@ Lets get started with data structures in Python...✌🙂
 
 [Maximum size rectangle binary sub-matrix with all 1s](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s/)
 
+[Maximum rectangular area in histogram](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
+
+[The Stock Span](https://www.geeksforgeeks.org/the-stock-span-problem/)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
@@ -177,6 +181,10 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Get Min ✌](https://practice.geeksforgeeks.org/problems/special-stack/1)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Max Rectangle ✌](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Maximum rectangle area ✌](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Stock Span ✌](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
 
 * STRINGS QUESTIONS v- 6.0
 
