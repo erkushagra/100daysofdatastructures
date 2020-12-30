@@ -106,6 +106,10 @@ Lets get started with data structures in Python...✌🙂
 
 [The Stock Span](https://www.geeksforgeeks.org/the-stock-span-problem/)
 
+[Infix to Postfix](https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/)
+
+[Next Larger Element](https://www.geeksforgeeks.org/next-greater-element/)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
@@ -185,6 +189,10 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Maximum rectangle area ✌](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Stock Span ✌](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.003 Infix to Postfix ✌](https://practice.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.004 Next Larger Element ✌](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
 
 * STRINGS QUESTIONS v- 6.0
 
