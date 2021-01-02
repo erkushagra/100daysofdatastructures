@@ -122,6 +122,8 @@ Lets get started with data structures in Python...✌🙂
 
 [DEQUE IN PY](https://www.geeksforgeeks.org/deque-in-python/)
 
+[PRIORITY QUEUE IN PYTHON](https://www.geeksforgeeks.org/priority-queue-in-python/)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
