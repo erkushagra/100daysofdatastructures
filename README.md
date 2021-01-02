@@ -90,11 +90,15 @@ Lets get started with data structures in Python...✌🙂
 
 [Intersection point of two linked list](https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists-set-2/?ref=rp)
 
-# S T A C K
+# S T A C K AND Q U E U E 
+
+* S T A C K 
+
+[BASICS OF STACK IN PYTHON](https://www.geeksforgeeks.org/stack-in-python/)
+
+[IMPLEMENT STACK USING QUEUE](https://www.geeksforgeeks.org/implement-stack-using-queue/)
 
 [Reverse using Stack in Python](https://github.com/erkushagra/daysofdatastructures/blob/main/Stacks/Reverse%20using%20Stack%20in%20Python)
-
-[STACKS IN PYTHON](https://www.geeksforgeeks.org/stack-in-python/)
 
 [Parentheses Checker](https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-python/)
 
@@ -109,6 +113,14 @@ Lets get started with data structures in Python...✌🙂
 [Infix to Postfix](https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/)
 
 [Next Larger Element](https://www.geeksforgeeks.org/next-greater-element/)
+
+* Q U E U E 
+
+[BASICS OF QUEUE](https://www.geeksforgeeks.org/queue-in-python/)
+
+[IMPLEMENT QUEUE USING STACK 🔥🔥🔥](https://www.geeksforgeeks.org/queue-using-stacks/)
+
+[DEQUE IN PY](https://www.geeksforgeeks.org/deque-in-python/)
 
 # A L G O R I T H M S :::
 
