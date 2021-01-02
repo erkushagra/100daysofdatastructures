@@ -188,7 +188,7 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.007 quick sort in linked list 🔥✌](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1)
 
-* STACKS QUESTIONS v- 5.0
+* STACKS AND QUEUE QUESTIONS v- 5.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.000 stack evaluation-postfix-expression ✌](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)
 
@@ -205,6 +205,8 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.003 Infix to Postfix ✌](https://practice.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.004 Next Larger Element ✌](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.005 Stack using two queues 🔥✌](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
 
 * STRINGS QUESTIONS v- 6.0
 
