@@ -124,6 +124,9 @@ Lets get started with data structures in Python...✌🙂
 
 [PRIORITY QUEUE IN PYTHON](https://www.geeksforgeeks.org/priority-queue-in-python/)
 
+[Maximum of all subarrays of size-K](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
+
+[Steps to reach target Knight](https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/)
 
 # A L G O R I T H M S :::
 
@@ -212,6 +215,8 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.005 Stack using two queues 🔥✌](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.006 Maximum of all subarray of size K](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.007 Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1)
 
 * STRINGS QUESTIONS v- 6.0
 
