@@ -124,6 +124,7 @@ Lets get started with data structures in Python...✌🙂
 
 [PRIORITY QUEUE IN PYTHON](https://www.geeksforgeeks.org/priority-queue-in-python/)
 
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
@@ -209,6 +210,8 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.004 Next Larger Element ✌](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.005 Stack using two queues 🔥✌](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.006 Maximum of all subarray of size K](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
 
 * STRINGS QUESTIONS v- 6.0
 
