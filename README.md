@@ -128,6 +128,11 @@ Lets get started with data structures in Python...✌🙂
 
 [Steps to reach target Knight](https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/)
 
+# T R E E S
+
+[BASICS OF TREES](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
