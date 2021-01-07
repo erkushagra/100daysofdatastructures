@@ -223,6 +223,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.007 Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.008 Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues&isFullScreen=true)
+
 * STRINGS QUESTIONS v- 6.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 6.001 String Anagrams ✌](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings&isFullScreen=true)
