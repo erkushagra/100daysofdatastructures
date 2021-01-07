@@ -132,6 +132,8 @@ Lets get started with data structures in Python...✌🙂
 
 [BASICS OF TREES](https://www.geeksforgeeks.org/binary-tree-data-structure/)
 
+[TREE TRAVERSAL PRE IN POST](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+
 
 # A L G O R I T H M S :::
 
@@ -228,6 +230,10 @@ Lets get started with data structures in Python...✌🙂
 * STRINGS QUESTIONS v- 6.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 6.001 String Anagrams ✌](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings&isFullScreen=true)
+
+* TREES QUESTIONS v- 7.0
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.001 Right View Binary Tree ✌](https://www.geeksforgeeks.org/print-right-view-binary-tree-2/)
 
 
 
