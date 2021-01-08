@@ -134,6 +134,8 @@ Lets get started with data structures in Python...✌🙂
 
 [TREE TRAVERSAL PRE IN POST](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
 
+[INSERTION IN BINARY TREE](https://www.geeksforgeeks.org/insertion-in-a-binary-tree-in-level-order/)
+
 
 # A L G O R I T H M S :::
 
@@ -234,6 +236,8 @@ Lets get started with data structures in Python...✌🙂
 * TREES QUESTIONS v- 7.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.001 Right View Binary Tree ✌](https://www.geeksforgeeks.org/print-right-view-binary-tree-2/)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.002 Mirror Trees ✌](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0#)
 
 
 
