@@ -136,6 +136,14 @@ Lets get started with data structures in Python...✌🙂
 
 [INSERTION IN BINARY TREE](https://www.geeksforgeeks.org/insertion-in-a-binary-tree-in-level-order/)
 
+[DELETION IN BINARY TREE](https://www.geeksforgeeks.org/deletion-binary-tree/)
+
+[LOWEST COMMON ANCESTOR](https://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
+
+[DIAMETER OF A BINARY TREE](https://www.geeksforgeeks.org/diameter-of-a-binary-tree/)
+
+[TOP VIEW OF BINARY TREE](https://www.geeksforgeeks.org/print-nodes-top-view-binary-tree/)
+
 
 # A L G O R I T H M S :::
 
