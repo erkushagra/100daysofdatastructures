@@ -249,5 +249,7 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.002 Mirror Trees ✌](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0#)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.003 Diameter of Binary Tree✌](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+
 
 
