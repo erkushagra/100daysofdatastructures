@@ -239,6 +239,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.009 Infinite Array](https://www.geeksforgeeks.org/find-the-count-of-unvisited-indices-in-an-infinite-array/)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.010 Posionous Plant](https://www.hackerrank.com/challenges/poisonous-plants/problem?h_r=profile&isFullScreen=true)
+
 * STRINGS QUESTIONS v- 6.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 6.001 String Anagrams ✌](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings&isFullScreen=true)
