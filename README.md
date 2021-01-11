@@ -195,6 +195,7 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 3.003 String Anagrams ✌](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings&isFullScreen=true)
 
+
 * LINKED LIST QUESTIONS v-4.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.000 Add two numbers represented by linked lists✌](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1)
@@ -255,7 +256,9 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.003 Diameter of Binary Tree✌](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.003 Height of Binary Tree✌](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1#)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.004 Height of Binary Tree✌](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1#)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.005 Duplicate Subtree 🔥🔥✌](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1)
 
 
 
