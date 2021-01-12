@@ -260,6 +260,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.005 Duplicate Subtree 🔥🔥✌](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.006 Distance between nodes 🔥🔥✌](https://www.geeksforgeeks.org/shortest-distance-between-two-nodes-in-bst/)
+
 
 
 
