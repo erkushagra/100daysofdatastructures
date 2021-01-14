@@ -262,6 +262,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.006 Distance between nodes 🔥🔥✌](https://www.geeksforgeeks.org/shortest-distance-between-two-nodes-in-bst/)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.007 Lowest Common ancestor 🔥🔥✌](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
+
 
 
 
