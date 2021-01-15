@@ -264,6 +264,10 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.007 Lowest Common ancestor 🔥🔥✌](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.008 Check for BST ✌](https://practice.geeksforgeeks.org/problems/check-for-bst/1#)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.009 Identical tress ✌](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
+
 
 
 
