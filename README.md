@@ -270,6 +270,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.009 Identical tress ✌](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.010 Root to leaf node ✌](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
+
 
 
 
