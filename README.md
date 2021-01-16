@@ -214,6 +214,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.007 quick sort in linked list 🔥✌](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.008 where the hell is this Merge point in the linked list ✌](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem?h_l=interview&isFullScreen=true&playlist_slugs%5B%5D%5B%5D%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D%5B%5D%5B%5D=linked-lists)
+
 * STACKS AND QUEUE QUESTIONS v- 5.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.000 stack evaluation-postfix-expression ✌](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)
