@@ -272,6 +272,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.010 Root to leaf node ✌](https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.011 Parent array to Binary Tree ✌](https://practice.geeksforgeeks.org/problems/construct-binary-tree-from-parent-array/1)
+
 
 
 
