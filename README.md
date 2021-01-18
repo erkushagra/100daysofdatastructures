@@ -146,6 +146,7 @@ Lets get started with data structures in Python...✌🙂
 
 [MAXIMUM DEPTH or HEIGHT OF A TREE](https://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/)
 
+[Kth ANCESTOR IN A TREE](https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/)
 
 # A L G O R I T H M S :::
 
@@ -278,7 +279,7 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.013 Isomorphic tree ✌](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1)
 
-
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.014 Vertical Sum ✌](https://practice.geeksforgeeks.org/problems/vertical-sum/1)
 
 
 
