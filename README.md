@@ -217,6 +217,10 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.008 where the hell is this Merge point in the linked list ✌](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem?h_l=interview&isFullScreen=true&playlist_slugs%5B%5D%5B%5D%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D%5B%5D%5B%5D=linked-lists)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.009 reverse doubly linked list gfg 🔥✌](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.010 reverse doubly linked list hr 🔥✌](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=linked-lists&isFullScreen=true)
+
 * STACKS AND QUEUE QUESTIONS v- 5.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.000 stack evaluation-postfix-expression ✌](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)
