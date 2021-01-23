@@ -148,6 +148,12 @@ Lets get started with data structures in Python...✌🙂
 
 [Kth ANCESTOR IN A TREE](https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/)
 
+# H E A P 
+
+[BASICS OF BINARY HEAP](https://www.geeksforgeeks.org/binary-heap/)
+
+[OPERATIONS IN A BINARY HEAP](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
@@ -285,6 +291,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.014 Vertical Sum ✌](https://practice.geeksforgeeks.org/problems/vertical-sum/1)
 
+
+* HEAP QUESTIONS V - 8.0
 
 
 
