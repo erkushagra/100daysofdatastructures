@@ -154,6 +154,8 @@ Lets get started with data structures in Python...✌🙂
 
 [OPERATIONS IN A BINARY HEAP](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 
+[HEAP SORT](https://www.geeksforgeeks.org/heap-sort/)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
