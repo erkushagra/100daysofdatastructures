@@ -156,6 +156,10 @@ Lets get started with data structures in Python...✌🙂
 
 [HEAP SORT](https://www.geeksforgeeks.org/heap-sort/)
 
+[HUFFMAN CODING](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
+
+
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
@@ -296,6 +300,6 @@ Lets get started with data structures in Python...✌🙂
 
 * HEAP QUESTIONS V - 8.0
 
-
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 8.001 Minimum cost of ropes ✌](https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
 
 
