@@ -154,6 +154,8 @@ Lets get started with data structures in Python...✌🙂
 
 [OPERATIONS IN A BINARY HEAP](https://practice.geeksforgeeks.org/problems/operations-on-binary-min-heap/1)
 
+[heapq in py](https://docs.python.org/3/library/heapq.html)
+
 [HEAP SORT](https://www.geeksforgeeks.org/heap-sort/)
 
 [HUFFMAN CODING](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
