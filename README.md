@@ -160,6 +160,10 @@ Lets get started with data structures in Python...✌🙂
 
 [HUFFMAN CODING](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
 
+# G R A P H
+
+[GRAPH](geeksforgeeks.org/graph-data-structure-and-algorithms/)
+
 
 
 # A L G O R I T H M S :::
@@ -300,8 +304,9 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.014 Vertical Sum ✌](https://practice.geeksforgeeks.org/problems/vertical-sum/1)
 
 
-* HEAP QUESTIONS V - 8.0
+* HEAP QUESTIONS v - 8.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 8.001 Minimum cost of ropes ✌](https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
 
+* GRAPH QUESTIONS v - 9.0
 
