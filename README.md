@@ -239,6 +239,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.010 reverse doubly linked list hr 🔥✌](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=linked-lists&isFullScreen=true)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.011 remove duplicates from an unsorted linked list 🔥🔥🔥✌](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1)
+
 * STACKS AND QUEUE QUESTIONS v- 5.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.000 stack evaluation-postfix-expression ✌](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)
@@ -272,6 +274,8 @@ Lets get started with data structures in Python...✌🙂
 * STRINGS QUESTIONS v- 6.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 6.001 String Anagrams ✌](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings&isFullScreen=true)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 6.002 Distinct palindrome substrings 🔥🔥🔥✌](https://practice.geeksforgeeks.org/problems/distinct-palindromic-substrings/0)
 
 * TREES QUESTIONS v- 7.0
 
