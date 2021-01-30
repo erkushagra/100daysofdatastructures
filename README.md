@@ -176,15 +176,15 @@ Lets get started with data structures in Python...✌🙂
 
 * ARRAY QUESTIONS v- 1.0
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.000 ✌](https://practice.geeksforgeeks.org/problems/maximum-intervals-overlap/0/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]1page1)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.000 ✌ Maximum intervals overlap](https://practice.geeksforgeeks.org/problems/maximum-intervals-overlap/0/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]1page1)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.001 ✌](https://practice.geeksforgeeks.org/problems/magnet-array-problem/0/?category[]=Arrays&category[]=Searching&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SearchingproblemStatusunsolveddifficulty[]1page1)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.001 ✌ Magnet array problem](https://practice.geeksforgeeks.org/problems/magnet-array-problem/0/?category[]=Arrays&category[]=Searching&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SearchingproblemStatusunsolveddifficulty[]1page1)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.002 ✌](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]1page1#)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.002 ✌ Minimum swaps](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]1page1#)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.003 ✌](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]0page1#)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.003 ✌ Largest subarray with 0 sum](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]0page1#)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.004 ✌](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/1/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]0page1#)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.004 ✌ Frequency of array elements](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/1/?category[]=Arrays&category[]=Sorting&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]Arrayscategory[]SortingproblemStatusunsolveddifficulty[]0page1#)
                            
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.005 Rearrange Array Alternately✌](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1/?category[]=Arrays&category[]=Sorting&category[]=Searching&problemStatus=unsolved&difficulty[]=1&page=1&query=category[]Arrayscategory[]Sortingcategory[]SearchingproblemStatusunsolveddifficulty[]1page1#) 
 
