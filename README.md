@@ -162,7 +162,7 @@ Lets get started with data structures in Python...✌🙂
 
 # G R A P H
 
-[GRAPH](geeksforgeeks.org/graph-data-structure-and-algorithms/)
+[GRAPH](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 
 
 
