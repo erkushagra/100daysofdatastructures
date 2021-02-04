@@ -164,6 +164,9 @@ Lets get started with data structures in Python...✌🙂
 
 [GRAPH](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 
+[BREADTH FIRST SEARCH](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
+
+[DEPTH FIRST SEARCH](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
 
 
 # A L G O R I T H M S :::
