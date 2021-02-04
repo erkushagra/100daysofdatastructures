@@ -277,7 +277,7 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 6.002 Distinct palindrome substrings 🔥🔥🔥✌](https://practice.geeksforgeeks.org/problems/distinct-palindromic-substrings/0)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 6.002 Distinct palindrome substrings 🔥✌](https://www.geeksforgeeks.org/minimum-number-of-times-a-has-to-be-repeated-such-that-b-is-a-substring-of-it/)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 6.003 Distinct palindrome substrings 🔥✌](https://www.geeksforgeeks.org/minimum-number-of-times-a-has-to-be-repeated-such-that-b-is-a-substring-of-it/)
 
 * TREES QUESTIONS v- 7.0
 
