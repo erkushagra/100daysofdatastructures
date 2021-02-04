@@ -319,3 +319,6 @@ Lets get started with data structures in Python...✌🙂
 
 * GRAPH QUESTIONS v - 9.0
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 9.001 bfs traversal graph ✌](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 9.002 dfs traversal graph ✌](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
