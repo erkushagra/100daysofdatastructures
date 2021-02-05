@@ -168,6 +168,8 @@ Lets get started with data structures in Python...✌🙂
 
 [DEPTH FIRST SEARCH](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
 
+[DETECT CYCLE IN UNDIRECTED GRAPH](https://www.geeksforgeeks.org/detect-cycle-undirected-graph/)
+
 
 # A L G O R I T H M S :::
 
@@ -322,3 +324,5 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 9.001 bfs traversal graph ✌](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 9.002 dfs traversal graph ✌](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 9.003 detect cycle in an undirected graph ✌](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
