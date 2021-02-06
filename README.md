@@ -62,6 +62,8 @@ Lets get started with data structures in Python...✌🙂
 
 [Maximum Subset XOR](https://www.geeksforgeeks.org/find-maximum-subset-xor-given-set/)
 
+[BIT DIFFERENCE](https://practice.geeksforgeeks.org/problems/find-sum-of-different-corresponding-bits-for-all-pairs4652/1)
+
 # H A S H I N G AND L I N K E D   L I S T S
 
 * H A S H I N G
