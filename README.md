@@ -201,6 +201,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.009 longest consecutive subsequence✌](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1#)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.010 Maximum Subarray sum HR 🔥✌](https://www.hackerrank.com/challenges/maximum-subarray-sum/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D%5B%5D=search&isFullScreen=true)
+
 * MATRIX QUESTIONS v- 2.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 2.000 print-spiral-matrix ✌](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
