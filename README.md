@@ -150,6 +150,8 @@ Lets get started with data structures in Python...✌🙂
 
 [Kth ANCESTOR IN A TREE](https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/)
 
+[PRE IN POST](https://www.geeksforgeeks.org/check-if-given-preorder-inorder-and-postorder-traversals-are-of-same-tree/)
+
 # H E A P 
 
 [BASICS OF BINARY HEAP](https://www.geeksforgeeks.org/binary-heap/)
