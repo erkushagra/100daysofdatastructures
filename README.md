@@ -284,6 +284,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.014 Reduce the string by removing k consecutive identical chars](https://www.geeksforgeeks.org/reduce-the-string-by-removing-k-consecutive-identical-characters/)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.015 Helping Classmates](https://practice.geeksforgeeks.org/problems/fab3dbbdce746976ba35c7b9b24afde40eae5a04/1/?track=30-DOC-day-17&batchId=320#)
+
 * STRINGS QUESTIONS v- 6.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 6.001 String Anagrams ✌](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=strings&isFullScreen=true)
