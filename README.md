@@ -260,29 +260,29 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Get Min ✌](https://practice.geeksforgeeks.org/problems/special-stack/1)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Max Rectangle ✌](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.003 Max Rectangle ✌](https://practice.geeksforgeeks.org/problems/max-rectangle/1)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Maximum rectangle area ✌](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.004 Maximum rectangle area ✌](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.002 Stock Span ✌](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.005 Stock Span ✌](https://practice.geeksforgeeks.org/problems/stock-span-problem/0)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.003 Infix to Postfix ✌](https://practice.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.006 Infix to Postfix ✌](https://practice.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.004 Next Larger Element ✌](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.007 Next Larger Element ✌](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.005 Stack using two queues 🔥✌](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.008 Stack using two queues 🔥✌](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.006 Maximum of all subarray of size K](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.009 Maximum of all subarray of size K](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.007 Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.010 Steps by Knight](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.008 Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues&isFullScreen=true)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.011 Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=stacks-queues&isFullScreen=true)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.009 Infinite Array](https://www.geeksforgeeks.org/find-the-count-of-unvisited-indices-in-an-infinite-array/)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.012 Infinite Array](https://www.geeksforgeeks.org/find-the-count-of-unvisited-indices-in-an-infinite-array/)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.010 Posionous Plant](https://www.hackerrank.com/challenges/poisonous-plants/problem?h_r=profile&isFullScreen=true)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.013 Posionous Plant](https://www.hackerrank.com/challenges/poisonous-plants/problem?h_r=profile&isFullScreen=true)
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.011 Reduce the string by removing k consecutive identical chars](https://www.geeksforgeeks.org/reduce-the-string-by-removing-k-consecutive-identical-characters/)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.014 Reduce the string by removing k consecutive identical chars](https://www.geeksforgeeks.org/reduce-the-string-by-removing-k-consecutive-identical-characters/)
 
 * STRINGS QUESTIONS v- 6.0
 
