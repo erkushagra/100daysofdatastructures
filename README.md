@@ -172,6 +172,8 @@ Lets get started with data structures in Python...✌🙂
 
 [DEPTH FIRST SEARCH](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/)
 
+[BFS VS DFS](https://www.geeksforgeeks.org/difference-between-bfs-and-dfs/)
+
 [DETECT CYCLE IN UNDIRECTED GRAPH](https://www.geeksforgeeks.org/detect-cycle-undirected-graph/)
 
 
