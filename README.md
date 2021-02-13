@@ -176,6 +176,8 @@ Lets get started with data structures in Python...✌🙂
 
 [DETECT CYCLE IN UNDIRECTED GRAPH](https://www.geeksforgeeks.org/detect-cycle-undirected-graph/)
 
+[DETECT CYCLE IN DIRECTED GRAPH](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/)
+
 
 # A L G O R I T H M S :::
 
