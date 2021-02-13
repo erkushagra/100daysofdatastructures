@@ -340,3 +340,5 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 9.002 dfs traversal graph ✌](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 9.003 detect cycle in an undirected graph ✌](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 9.004 detect cycle in an directed graph ✌](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1#)
