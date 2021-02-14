@@ -328,6 +328,7 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.014 Vertical Sum ✌](https://practice.geeksforgeeks.org/problems/vertical-sum/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.015 Valentine Sum ❤🔥✌](https://practice.geeksforgeeks.org/problems/0f02fb492c69c094d94e806cba6ff8d8cd04d630/1/?track=30-DOC-day-20&batchId=320#)
 
 * HEAP QUESTIONS v - 8.0
 
