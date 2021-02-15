@@ -330,6 +330,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.015 Valentine Sum ❤🔥✌](https://practice.geeksforgeeks.org/problems/0f02fb492c69c094d94e806cba6ff8d8cd04d630/1/?track=30-DOC-day-20&batchId=320#)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.016 Corona Vaccine ❤🔥✌](https://practice.geeksforgeeks.org/problems/d1afdbd3d49e4e7e6f9d738606cd592f63e6b0f0/1/?track=30-DOC-day-21&batchId=320)
+
 * HEAP QUESTIONS v - 8.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 8.001 Minimum cost of ropes ✌](https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
