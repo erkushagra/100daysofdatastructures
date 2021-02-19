@@ -299,7 +299,7 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 6.003 Distinct palindrome substrings 🔥✌](https://www.geeksforgeeks.org/minimum-number-of-times-a-has-to-be-repeated-such-that-b-is-a-substring-of-it/)
 
 * TREES QUESTIONS v- 7.0
-
+* 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.001 Right View Binary Tree ✌](https://www.geeksforgeeks.org/print-right-view-binary-tree-2/)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.002 Mirror Trees ✌](https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0#)
@@ -332,9 +332,13 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 7.016 Corona Vaccine ❤🔥✌](https://practice.geeksforgeeks.org/problems/d1afdbd3d49e4e7e6f9d738606cd592f63e6b0f0/1/?track=30-DOC-day-21&batchId=320)
 
+
+
 * HEAP QUESTIONS v - 8.0
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 8.001 Minimum cost of ropes ✌](https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 8.001 Does array represents Heap✌](https://practice.geeksforgeeks.org/problems/does-array-represent-heap4345/1/?category[]=Binary%20Search%20Tree&category[]=Binary%20Search%20Tree&problemStatus=unsolved&difficulty[]=-1&page=1&query=category[]Binary%20Search%20TreeproblemStatusunsolveddifficulty[]-1page1category[]Binary%20Search%20Tree#)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 8.002 Minimum cost of ropes ✌](https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
 
 * GRAPH QUESTIONS v - 9.0
 
