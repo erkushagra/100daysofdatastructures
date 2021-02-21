@@ -349,3 +349,7 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 9.003 detect cycle in an undirected graph ✌](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 9.004 detect cycle in an directed graph ✌](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1#)
+
+* GREEDY QUESTIONS v - 10.0
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 10.001 Police and thieves ✌](https://practice.geeksforgeeks.org/problems/e47329920b4e75869ea7b0e9b7c59ea145ccc22c/1/?track=30-DOC-day-27&batchId=320#)
