@@ -353,3 +353,7 @@ Lets get started with data structures in Python...✌🙂
 * GREEDY QUESTIONS v - 10.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 10.001 Police and thieves ✌](https://practice.geeksforgeeks.org/problems/e47329920b4e75869ea7b0e9b7c59ea145ccc22c/1/?track=30-DOC-day-27&batchId=320#)
+
+* DP v - 11.0
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 11.001 Escape the Forbidden Forest 🔥✌](https://practice.geeksforgeeks.org/problems/a4f19ea532cee502aabec77c07e0d0a45b76ecf9/1/?track=30-DOC-day-30&batchId=320#)
