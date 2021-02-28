@@ -185,6 +185,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 Flyod Cycle Finding Algorithm (Tortoise and Rabbit Algo) ✌](https://github.com/erkushagra/daysofdatastructures/blob/main/hashing%20and%20linked%20list/Floyd%E2%80%99s%20Cycle-Finding%20Algorithm)
 
+[👀 See METHOD 3 (Using Moore’s Voting Algorithm) ✌](https://www.geeksforgeeks.org/majority-element/)
+
 # Q U E S T I O N S ::: 
 
 * ARRAY QUESTIONS v- 1.0
