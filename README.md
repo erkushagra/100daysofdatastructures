@@ -258,6 +258,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.011 remove duplicates from an unsorted linked list 🔥🔥🔥✌](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.012 add two numbers represented by linked list 🔥✌](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-list/1/?category[]=Recursion&category[]=Recursion&difficulty[]=1&page=1&query=category[]Recursiondifficulty[]1page1category[]Recursion#)
+
 * STACKS AND QUEUE QUESTIONS v- 5.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.000 stack evaluation-postfix-expression ✌](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)
