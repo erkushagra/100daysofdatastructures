@@ -344,6 +344,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 8.002 Minimum cost of ropes ✌](https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 8.003 Height of Heap ✌](https://practice.geeksforgeeks.org/problems/height-of-heap5025/1/?category[]=Tree&category[]=Tree&problemStatus=unsolved&difficulty[]=-1&page=1&query=category[]TreeproblemStatusunsolveddifficulty[]-1page1category[]Tree#)
+
 * GRAPH QUESTIONS v - 9.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 9.001 bfs traversal graph ✌](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)
