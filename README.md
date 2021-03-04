@@ -134,6 +134,8 @@ Lets get started with data structures in Python...✌🙂
 
 [BASICS OF TREES](https://www.geeksforgeeks.org/binary-tree-data-structure/)
 
+[TERMINOLOGY of BST(by mycodeschool yt link)](https://www.youtube.com/watch?v=H5JubkIy_p8&t=0s&ab_channel=mycodeschool)
+
 [TREE TRAVERSAL PRE IN POST](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
 
 [INSERTION IN BINARY TREE](https://www.geeksforgeeks.org/insertion-in-a-binary-tree-in-level-order/)
