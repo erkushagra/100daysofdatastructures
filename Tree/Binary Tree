@@ -48,6 +48,41 @@ class BinarySearchTreeNode:
             
         return elements
 
+    def preorder_traversal(self):
+        elements = []
+        elements.append(self.data)
+        if self.left:
+            elements+=self.left.preorder_traversal()
+        if self.right:
+            elements+=self.right.preorder_traversal()
+        return elements
+
+    def postorder_traversal(self):
+        elements = []
+        if self.left:
+            elements+=self.left.preorder_traversal()
+        if self.right:
+            elements+=self.right.preorder_traversal()
+        elements.append(self.data)
+        return elements
+
+        
+
+    def min_element(self):
+        if self.left is None:
+            return self.data
+        return self.left.min_element()
+
+    def max_element(self):
+        if self.right is None:
+            return self.data
+        return self.right.max_element()
+
+    def calculate_sum(self):
+        left_sum = self.left.calculate_sum() if self.left else 0
+        right_sum = self.right.calculate_sum() if self.right else 0
+        return self.data + left_sum + right_sum
+
 def build_tree(elements):
     print("Build tree with the elements",elements)
 
@@ -67,10 +102,26 @@ if __name__ == "__main__":
 
     print("UK is in the list? ", country_tree.search("UK"))
     print("Sweden is in the list? ", country_tree.search("Sweden"))
-    
+
+
+    numbers = [17, 4, 1, 20, 9, 23, 18, 34]
+
+    numbers = [15,12,7,14,27,20,23,88 ]
+
+    numbers_tree = build_tree(numbers)
+    print("Input numbers:",numbers)
+    print("Min:",numbers_tree.min_element())
+    print("Max:",numbers_tree.max_element())
+    print("Sum:", numbers_tree.calculate_sum())
+    print("In order traversal:", numbers_tree.inorder_traversal())
+    print("Pre order traversal:", numbers_tree.preorder_traversal())
+    print("Post order traversal:", numbers_tree.postorder_traversal())
         
             
         
+
+
+
 
 
 
