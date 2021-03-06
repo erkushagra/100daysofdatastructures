@@ -219,6 +219,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.011 Arranging the array 🔥✌](https://practice.geeksforgeeks.org/problems/arranging-the-array1131/1)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 1.012 Count triplets 🔥✌](https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1)
+
 * MATRIX QUESTIONS v- 2.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 2.000 print-spiral-matrix ✌](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
