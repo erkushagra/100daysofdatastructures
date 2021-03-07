@@ -268,6 +268,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.012 add two numbers represented by linked list 🔥✌](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-list/1/?category[]=Recursion&category[]=Recursion&difficulty[]=1&page=1&query=category[]Recursiondifficulty[]1page1category[]Recursion#)
 
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 4.013 Implement stack using Linked List](https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
+
 * STACKS AND QUEUE QUESTIONS v- 5.0
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.000 stack evaluation-postfix-expression ✌](https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression1735/1)
@@ -301,6 +303,8 @@ Lets get started with data structures in Python...✌🙂
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.014 Reduce the string by removing k consecutive identical chars](https://www.geeksforgeeks.org/reduce-the-string-by-removing-k-consecutive-identical-characters/)
 
 [👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.015 Helping Classmates](https://practice.geeksforgeeks.org/problems/fab3dbbdce746976ba35c7b9b24afde40eae5a04/1/?track=30-DOC-day-17&batchId=320#)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 5.016 Implement stack using Linked List](https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1)
 
 * STRINGS QUESTIONS v- 6.0
 
