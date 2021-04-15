@@ -225,7 +225,9 @@ Lets get started with data structures in Python...✌🙂
 
 * MATRIX QUESTIONS v- 2.0
 
-[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 2.000 print-spiral-matrix ✌](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 2.000 print-spiral-matrix 🔥✌](https://www.geeksforgeeks.org/print-a-given-matrix-in-spiral-form/)
+
+[👀 GIVE A TRY TO THIS INTERESTING AND EXCITING QUESTION - 2.001 Is Sudoku valid or not 🔥✌](https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1)
 
 * HASHING QUESTIONS v-3.0
 
