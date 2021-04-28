@@ -191,6 +191,8 @@ Lets get started with data structures in Python...✌🙂
 
 [👀 See METHOD 3 (Using Moore’s Voting Algorithm) ✌](https://www.geeksforgeeks.org/majority-element/)
 
+[👀 TOWER OF HANOI 🔥](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/)
+
 # Q U E S T I O N S ::: 
 
 * ARRAY QUESTIONS v- 1.0
