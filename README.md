@@ -182,6 +182,11 @@ Lets get started with data structures in Python...✌🙂
 
 [DETECT CYCLE IN DIRECTED GRAPH](https://www.geeksforgeeks.org/detect-cycle-in-a-graph/)
 
+# DYNAMIC PROGRAMMING CODES:
+
+[SUBSET SUM PROBLEM](https://onlinegdb.com/EZDQiluSZ)
+
+[COUNT OF SUBSETS OF A GIVEN SUM](https://onlinegdb.com/cc9f-C469)
 
 # A L G O R I T H M S :::
 
