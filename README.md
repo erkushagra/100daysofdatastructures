@@ -188,6 +188,8 @@ Lets get started with data structures in Python...✌🙂
 
 [COUNT OF SUBSETS OF A GIVEN SUM](https://onlinegdb.com/cc9f-C469)
 
+[MINIMUM SUBSET SUM DIFFERENCE](https://onlinegdb.com/-LmFYgg6WZ)
+
 # A L G O R I T H M S :::
 
 [👀 KANDANE'S ALGORITHM ✌](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
